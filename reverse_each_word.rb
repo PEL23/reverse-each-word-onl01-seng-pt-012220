@@ -1,4 +1,3 @@
-def reverse_each_word
-a=("hello how are you")
-a.map(&:reverse!)
+def reverse_each_word(name)
+name.map(&:reverse!)
 end
