@@ -1,4 +1,4 @@
 def reverse_each_word
-a = ["hi", "hey", "hello"]
+a=("hello how are you")
 a.reverse
 end
